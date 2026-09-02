@@ -398,7 +398,7 @@ La lectura aborda qué son las proteínas recombinantes, cómo se producen, sus 
 
 ---
 
-# 🎥 3. Video sobre clonación
+# 3. Video sobre clonación
 
 El syllabus original recomienda un vídeo como complemento visual de la introducción a la clonación molecular.
 
@@ -470,7 +470,7 @@ Antes de la primera sesión, intenta responder las siguientes preguntas:
 No es necesario conocer todas las respuestas. **Estas preguntas servirán como punto de partida para el taller.**
 ---
 
-# 🚀 Filosofía del taller
+# Filosofía del taller
 
 La idea central del taller es pasar de:
 
@@ -506,7 +506,7 @@ Interpretación del resultado
 
 ---
 
-## 📚 Referencias y recursos
+## Referencias y recursos
 
 * GoldBio. *Molecular Cloning: A Detailed Introduction*.
   https://www.goldbio.com/blogs/articles/molecular-cloning-detailed-intro
