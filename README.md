@@ -2,7 +2,7 @@
 
 **Taller de Biología Molecular y Biotecnología**
 
-> Del concepto biológico al diseño de un experimento: aprender a utilizar la clonación molecular como una herramienta para responder preguntas de investigación.
+> Del concepto biológico al diseño de un experimento: aprender a utilizar la clonación molecular como una herramienta para responder preguntas de investigación. 
 
 ---
 
